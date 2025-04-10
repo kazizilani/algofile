@@ -1,5 +1,5 @@
 **bitly link**
-**figma prototype:** bit.ly/44jb8Qh
+**figma prototype:** https://bit.ly/44jb8Qh
 **google slides:** https://bit.ly/3Er56T7
 
 
